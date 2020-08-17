@@ -18,6 +18,7 @@ npm i
 ```
 Ensure that you have all of the dependencies, as shown below in the package. json file.
 
+![](https://github.com/AkADawg/KeepIt/blob/master/images/packagejs.PNG)
 
 
 #### Running
@@ -29,7 +30,7 @@ npm start
 This runs an arbitrary command specified in the package's "start" property of its "scripts" object. If no "start" property is specified on the "scripts" object, it will run node server. js .
 
 ## Features
-
+![](http://g.recordit.co/JOosiTy9Bz.gif)
 
 ## Built With
 React. js 
